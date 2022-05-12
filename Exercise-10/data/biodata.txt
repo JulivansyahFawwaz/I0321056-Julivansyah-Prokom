@@ -1,0 +1,6 @@
+Nama: Apang
+Umur: 20
+Alamat: UNS
+Nama: Julivansyah
+Umur: 21
+Alamat: UNDIP
